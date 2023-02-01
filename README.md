@@ -1,3 +1,5 @@
+#Read the Assignment and ready for more
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
